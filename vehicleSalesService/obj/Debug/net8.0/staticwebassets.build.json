@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7PKORjKEMjlMM4SUzBdFsnW6ZKKokO5ILFUX8+u1/aU=",
+  "Source": "vehicleSalesService",
+  "BasePath": "_content/vehicleSalesService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
